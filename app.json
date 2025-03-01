@@ -1,5 +1,5 @@
 {
-  "name": "✦ᴍᴀʟᴠɪɴ-xᴅ✦",
+  "name": "yankee ɴ-xᴅ✦",
   "description": "Javascript WhatsApp bot made by ✦ ᴍᴀʟᴠɪɴ ᴋɪɴɢ ✦",
   "logo": "https://files.catbox.moe/gld2vo.jpg",
   "keywords": ["MALVIN XD"],
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "MALVIN-XD~B5gSBRKT#6msbFWzHz57Ht32Fe0PqRCAwBzkp9VhS_wGCLV0Pan0",
       "required": true,
       "value": ""
     },  
@@ -32,9 +32,9 @@
     },
     
     "PREFIX": {
-      "description": "paste your bot prefix note! Don't apply null prefix.",
+      "description": ".",
       "required": false,
-      "value": "."
+      "value": "https://files.catbox.moe/xv7v0c.jpg"
     },
     
     "MODE": {
@@ -47,7 +47,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "✦MALVIN-XD✦"
+      "value": "✦yanke-XD✦"
     },
     
     
@@ -109,7 +109,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "263714757857"
+      "value": "+2250585256740"
 
     }, 
 
